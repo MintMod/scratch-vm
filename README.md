@@ -6,7 +6,7 @@ This is a drop-in replacement for LLK/scratch-vm.
 
 ## Setup
 
-See https://github.com/TurboWarp/scratch-gui/wiki/Getting-Started to setup the complete TurboWarp environment.
+See https://docs.turbowarp.org/development/getting-started to setup the complete TurboWarp environment.
 
 If you just want to play with the VM then it's the same process as upstream scratch-vm.
 
